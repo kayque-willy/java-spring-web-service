@@ -6,7 +6,7 @@ This project was generated with [Java Spring Boot](https://spring.io/projects/sp
 
 ## Development server
 
-Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+Post JSON to `http://localhost:8080/sending-email`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
